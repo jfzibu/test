@@ -1,0 +1,287 @@
+/****************** Common CSS Start ******************/
+ #top-bar{
+    background-color: black; text-align: left;  color: white;  height: 25px;
+ }
+ .header-bar
+ {
+     height:100px;
+    width: 100%; 
+    position: absolute;
+    color: white;  text-align:center;
+    background-color: rgb(129, 131, 136); opacity: 0.4;
+ }
+ .green_btn {
+    background: #25a590;
+    color: white;
+    padding: 6px 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 14px;
+    border-radius: 1px;
+    border: 1px solid #25a590;
+    transition: all .4s;
+    margin-bottom: 30px;
+     
+}
+.green_btn:hover {
+    background: transparent;
+    color: #fff;
+}
+    
+  .img_btn{
+       
+  }
+ .ban{
+    padding-left: 100px;
+   
+ }
+ /*.banner{
+     background-image: url('assets/images/house1.jpg');
+     width:100%;
+ }*/
+ #feature{
+    background-color:#27a690; 
+ 
+ }
+  
+ .seclogo{
+    margin-top: 50px;
+    margin-bottom: 50px;
+ }
+ .logo-item{
+     position: absolute;
+     margin-top: 30px;
+ }
+ .navbar{
+    font-family: 'Times New Roman', Times, serif; 
+     
+ }
+ .active .nav-link {
+    color: rgba(255, 255, 255, 1);
+}
+.nav-link:hover {
+    color: rgba(255, 255, 255, 1);
+}
+.rectangle1{
+  
+    background-color: rgb(0, 0, 0);
+    opacity: 0.412;
+     margin-top: 100px;
+     margin-left: 50px;
+
+  
+  
+}
+ 
+ 
+
+.item{
+    background-image: -moz-linear-gradient( 119deg, rgb(39,166,144) 0%, rgb(34,152,131) 100%);
+    background-image: -webkit-linear-gradient( 119deg, rgb(39,166,144) 0%, rgb(34,152,131) 100%);
+    background-image: -ms-linear-gradient( 119deg, rgb(39,166,144) 0%, rgb(34,152,131) 100%);
+    position: absoulate;
+    
+    height: 200px;
+  
+     margin-bottom: 40px;
+     
+  
+}
+.tem{
+      
+     top: 110px; 
+       text-align: center;
+       position:absolute;  margin-left:250px;   font-size:  30px;  font-family: Myriad Pro;
+       margin-bottom: 60px;
+}
+ .shape{
+     width:85%;
+     height: 5px;
+     background-color: turquoise;
+     margin-bottom: 10px;
+     position: relative;
+     left: 15px;
+ }
+ .pro{
+     position: relative;
+     background-color: rgb(247, 247, 247);
+      
+     width: 100%;
+ }
+ 
+ .media-body
+{
+    text-align: justify;
+} 
+.media{
+ 
+}
+   
+ .ser{
+       margin-top: 50px;
+     font-size: 30px;
+ }
+.picarestart{
+     width:100%;  background-color: rgb(247, 247, 247);
+}
+ .shape1{
+     height:5px;
+     width: 85%;
+     background-color: turquoise;
+     margin-bottom: 20px;
+   }
+ .idnt{
+   text-align: center;
+    font-size: 30px;  
+    margin-top: 50px;
+    margin-bottom: 50px;
+ }
+ .shape2{
+    height:5px;
+    width: 3%;
+    background-color: turquoise;
+    position: relative;
+    left: 550px;
+    margin-bottom: 40px;
+      
+ 
+ }
+.item-2{
+       
+    font-size: 12px;  
+    margin-bottom: 30px;
+        
+       
+  }
+/* .rectangle2{
+       
+      left: 0px;
+      right: 0px;
+      display: flex;
+      align-items: center;
+      background-color: rgb(247, 247, 247);
+      
+       
+  }*/
+ 
+  .rectangle3{
+    background-color: rgb(247, 247, 247);
+     
+    font-size: 30px; 
+   
+     
+  }
+
+  .car{
+ text-align: center;
+ margin-bottom: 10px;
+  }
+.val{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+
+
+ 
+
+.dow{
+    background-color: rgb(247, 247, 247);
+    margin-top: 30px;
+}
+.n1{
+ border: 3px solid turquoise;
+ 
+ 
+}
+.cho{
+    margin-left: 50px;
+}
+ .item-1{
+     background-image: url('assets/images/logol.png');
+     
+
+ }
+  
+ .arti{
+     margin-bottom: 40px;
+     
+ }
+ .pour{
+    text-align: right; font-weight: bolder;font-size: 25px;
+ }
+ .apro{
+    font-weight: bolder;font-size: 25px;
+ }
+ .tmp{
+    background-color: rgb(247, 247, 247);
+    margin-top: 50px;
+    
+ }
+ .slid{
+     margin-top: 40px;
+     margin-bottom: 25px;
+ }
+  .fot2{
+      margin-top: 25px;
+     
+  }
+  .fot1{
+    margin-top: 25px;
+   
+    line-height: 30px;
+}
+.footertext{
+    color:white;
+    background-color:black;  width: 100%; height:400px;
+    justify-content: center;
+     
+}
+.fotter-img3{
+    margin-bottom: 60px;
+  
+
+}
+.uexpert {
+    margin-top: 25px;
+    margin-bottom: 80px;
+}
+ 
+   
+#download{
+ background-color:#27a690;  width: 100%;height:300px; background-image: url('assets/images/logoa.png');
+
+}
+ 
+.fotterimg{
+    background-color: teal;
+}
+.footerimg1{
+    background-color: white;
+    width:50px;
+}
+.footercolast{
+    margin-top: 30px;
+    margin-left: 4px;
+ 
+
+}
+ 
+
+.find{
+    margin-top: 120px;
+    
+
+
+    }
+
+    .asso{
+        font-size: 20px; margin-top: 80px; background-repeat: no-repeat; height: 500px;position: relative;
+    }
+    .footercolast1{
+        margin-top: 55px;
+        margin-left: 3px;
+       
+    
+    }
+     
